@@ -24,4 +24,4 @@ En este proyecto peticion a una API de Gatos atravez de la liga [sitio original]
 
 
 ## Resultado Replica
-![Imagen](./assets/replica.png)
+![Imagen](./assets/replica.jpg)
